@@ -8,7 +8,7 @@ https://play.google.com/store/apps/details?id=de.markusfisch.android.shaderedito
 
 [![alt text](http://example.com/exampl.png)](http://example.com/link "title")
 
-[![Testing](/images/colorwave.png)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+[![Testing](/images/colorwave.png)](https://www.shadertoy.com/view/Wlt3zS "Color wave")
 
 <iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Wlt3zS?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
 
