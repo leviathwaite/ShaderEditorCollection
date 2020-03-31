@@ -8,9 +8,4 @@ https://play.google.com/store/apps/details?id=de.markusfisch.android.shaderedito
 
 [![alt text](http://example.com/exampl.png)](http://example.com/link "title")
 
-[![Testing](/images/colorwave.png)](https://www.shadertoy.com/view/Wlt3zS "Color wave")
-
-<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/Wlt3zS?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe>
-
-![GitHub Logo](/images/colorwave.png)
-![Color Wave Shader Post Processing Effect](https://www.shadertoy.com/view/Wlt3zS)
+[![Color Wave Shader Post Processing Effect](/images/colorwave.png)](https://www.shadertoy.com/view/Wlt3zS "Color wave")
