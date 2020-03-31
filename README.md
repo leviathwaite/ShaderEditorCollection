@@ -8,3 +8,8 @@ My collection of shaders for Shader Editor App. I may have an addiction to shade
 
 #### Manipulating Colors Post Processing Effects
 [![Color Wave Shader Post Processing Effect](/images/colorwave.png)](https://www.shadertoy.com/view/Wlt3zS "Color wave")
+
+##### Piet Mondrian
+Shape practice from "The Book of Shaders"
+[![Piet Mondrian](/images/colorwave.png)](https://www.shadertoy.com/view/tsy3Rh "Piet Mondrian")
+
