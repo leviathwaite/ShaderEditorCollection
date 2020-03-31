@@ -6,6 +6,5 @@ https://play.google.com/store/apps/details?id=de.markusfisch.android.shaderedito
 
 <iframe src="https://www.shadertoy.com/embed/4td3Wn" style="height: 500px; width: 500px;"></iframe>
 
-[![alt text](http://example.com/exampl.png)](http://example.com/link "title")
 
 [![Color Wave Shader Post Processing Effect](/images/colorwave.png)](https://www.shadertoy.com/view/Wlt3zS "Color wave")
