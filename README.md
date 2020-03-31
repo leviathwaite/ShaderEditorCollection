@@ -11,5 +11,4 @@ My collection of shaders for Shader Editor App. I may have an addiction to shade
 
 ##### Piet Mondrian
 Shape practice from "The Book of Shaders"
-[![Piet Mondrian](/images/colorwave.png)](https://www.shadertoy.com/view/tsy3Rh "Piet Mondrian")
-
+[![Piet Mondrian](/images/piet%20mondrian.png)](https://www.shadertoy.com/view/tsy3Rh "Piet Mondrian")
