@@ -18,3 +18,7 @@ Shape practice from "The Book of Shaders"
 
 #### CRT Post Processing Effect
 [![CRT Post Processing Effect](/images/CRT.png)](https://www.shadertoy.com/view/WsGfWR "CRT Effect")
+
+#### Cross Stitching Processing Effect
+[![Cross Stitching Post Processing Effect](/images/Cross Stitching Effect.png)](https://www.shadertoy.com/view/WdyBDh "Cross Stitching Effect")
+
