@@ -22,3 +22,5 @@ Shape practice from "The Book of Shaders"
 #### Cross Stitching Post Processing Effect
 [![Cross Stitching Post Processing Effect](/images/crossstitchingeffect.png)](https://www.shadertoy.com/view/WdyBDh "Cross Stitching Effect")
 
+#### Cross Hatching Post Processing Effect
+[![Cross Hatching Post Processing Effect](/images/crosshatchingeffect.png)](https://www.shadertoy.com/view/WdGfDh "Cross Hatching Effect")
